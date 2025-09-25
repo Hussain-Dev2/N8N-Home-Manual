@@ -1,0 +1,13 @@
+{
+  "name": "n8n-render-project",
+  "version": "1.0.0",
+  "description": "n8n on Render without Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.112.5"
+  },
+  "license": "MIT"
+}
